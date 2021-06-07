@@ -1,0 +1,42 @@
+body
+    {
+        background-color: blueviolet;        
+    }
+td
+    {
+        font-size:22px;
+        color:red
+        
+    }
+input,select,#haj,textarea
+    {
+        padding:20px;
+        background-color:darkseagreen;
+    }
+
+   button:active
+    {
+    color:darkgreen;
+    background-color:crimson;
+    
+    text-indent:30px;
+    }
+    label
+    {
+        color:red;
+    }
+    h1
+    {
+        letter-spacing:10px;
+        text-transform: uppercase;
+        font-style:Jokerman;
+        color:red;
+    }
+    button:hover
+    {color:forestgreen;
+        background-color:gold;
+
+    }
+
+
+
